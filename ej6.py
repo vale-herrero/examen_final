@@ -6,7 +6,6 @@ def main():
             self.rango = random.randint(0,2000)
             print('stromtrooper creado con exito!')
     
-    print(list(Stormtrooper()))
         
 
 if __name__=='__main__':
